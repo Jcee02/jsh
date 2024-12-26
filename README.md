@@ -1,3 +1,5 @@
+**jsh**
+
 jsh is a minimalistic shell written in C that works in a REPL fashion
 
 Implementation of this project demonstrates how a shell executes syscalls.
